@@ -1,0 +1,14 @@
+# .gitignore file (in the root of Aslivo Store)
+
+# Ignore environment variables file
+.env
+
+# Python bytecode
+*.pyc
+*.pyo
+
+# Django stuff
+*.log
+*.sqlite3
+/media
+/static
